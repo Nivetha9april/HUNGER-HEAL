@@ -1,0 +1,2 @@
+C:/hungerheal01-main (1)/firebase_auth_app1/android/app/.cxx/RelWithDebInfo/6k1z1u5z/x86_64/CMakeFiles/edit_cache.dir
+C:/hungerheal01-main (1)/firebase_auth_app1/android/app/.cxx/RelWithDebInfo/6k1z1u5z/x86_64/CMakeFiles/rebuild_cache.dir
