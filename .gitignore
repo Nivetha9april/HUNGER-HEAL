@@ -1,0 +1,5 @@
+# Firebase service account
+firebase_auth_app1/assets/images/hungerheal-service-account.json
+
+# Environment variables
+firebase_auth_app1/assets/.env
